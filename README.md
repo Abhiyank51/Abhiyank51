@@ -1,10 +1,10 @@
-# Abhiyank-Yadav
+# About Me-
 <h1 align="center">Hi 👋, I'm Abhiyank Yadav</h1>
 <h3 align="center">I'm a passionate and aspiring data science student currently pursuing my studies at Vellore Institute of Technology ,Bhopal. With a keen interest in extracting meaningful insights from data, I am dedicated to exploring the vast possibilities of data science to drive innovation and create impact . My passion for continuous learning drives me to stay up-to-date with the latest advancements in the field. I actively engage in online courses, webinars, and industry forums to expand my knowledge and sharpen my skills.</h3>
 
 <p align="left"> <a href="https://twitter.com/abhiyanky63468" target="blank"><img src="https://img.shields.io/twitter/follow/abhiyanky63468?logo=twitter&style=for-the-badge" alt="abhiyanky63468" /></a> </p>
 
-- 💬 Ask me about **Html, CSS, Python Programming, DSA, Data Visualization, Power BI**
+- 💬 Ask me about **Html, CSS, Python Programming, R- Programming , DSA, Data Visualization, Power BI**
 
 - 📫 How to reach me **abhiyankyadav51@gmail.com**
 
