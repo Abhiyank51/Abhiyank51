@@ -25,7 +25,7 @@
 
 ###
 
-- 💬 Ask me about **Html, CSS,C++, Python Programming, R- Programming , DSA in C++, Data Visualization, Power BI, Text Mining, OOPS in C++**
+- 💬 Ask me about **Html, CSS,C++, Python Programming, R- Programming ,Machine Learning, DSA in C++, Data Visualization, Power BI, Text Mining, OOPS in C++**
 
 - 📫 To reach me **abhiyankyadav51@gmail.com**
 
