@@ -18,7 +18,7 @@
   <h3 align="center">Connect with me:</h3>
   <a href ="https://www.linkedin.com/in/abhiyank-yadav-440b33251" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     
-  <a href="https://kaggle.com/abhiyank yadav" target="blank"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /><a/>
+  <a href= "https://www.kaggle.com/abhiyankyadav" target="blank"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /><a/>
   <a href="https://twitter.com/abhiyanky63468" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
   <a href="https://www.datacamp.com/portfolio/abhiyankyadav51" target="blank"><img src="https://img.shields.io/static/v1?message=DataCamp&logo=DataCamp&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
