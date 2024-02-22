@@ -98,7 +98,7 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiyank51&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="abhiyank51" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiyank51&layout=donut&theme=great-gatsby" alt="abhiyank51" "/></p>
 
 <p><img align="center" src ="https://github-readme-stats.vercel.app/api?username=abhiyank51&show_icons=true&theme=great-gatsby"/></p>
 
