@@ -98,10 +98,10 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiyank51&show_icons=true&locale=en&layout=compact" alt="abhiyank51" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiyank51&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="abhiyank51" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiyank51&show_icons=true&locale=en" alt="abhiyank51" /></p>
+<p><img align="center" src ="https://github-readme-stats.vercel.app/api?username=abhiyank51&show_icons=true&theme=transparent"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiyank51&" alt="abhiyank51" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiyank51&theme=great-gatsby" alt="abhiyank51" /></p>
 
 ###
