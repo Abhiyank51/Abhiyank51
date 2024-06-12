@@ -4,6 +4,13 @@
 
 <h1 align="center">Hi 👋, I'm Abhiyank Yadav</h1>
 
+<div align="center" style="background-color: #f2f2f2; border-radius: 10px; padding: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cousine+new&color=87CEEB&size=40&width=700&duration=4000&lines=Welcome+to+my+GitHub+Profile!;Explore+and+Collaborate+with+me;" alt="Typing SVG">
+  </a>
+</div>
+
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
