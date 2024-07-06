@@ -9,7 +9,7 @@
 
 <p align="center" style="font-size: 30px;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+My+Github+Profile!!;++;Exploring+Data-Science-Field,;Data+Science+Student-VIT+BHOPAL+UNIVERSITY,;;Explore+and+Collaborate+with+me;Love+to+learn+new+stuffs...">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&color=cyan&size=50&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+My+Github+Profile!!;Explore+🔎+and+Collaborate+with+me+⚙️">
   </a>
 </p>
 
