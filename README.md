@@ -62,7 +62,7 @@
 
 ###
 
-- 💬 Ask me about **Html, CSS,C++, Python Programming, R- Programming ,Machine Learning, DSA in C++, Data Visualization, Power BI, Text Mining, OOPS in C++**
+- 💬 Ask me about **Html, CSS, OOPS in C++, Python Programming, R- Programming ,Machine Learning, Data Visualization, Power BI, Text Mining, Django**
 
 - 📫 To reach me **abhiyankyadav51@gmail.com**
 
@@ -70,22 +70,14 @@
 <br>
 <br>
 
------
-
-<br>
-<br>
-
   ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills - Currently Learning</b>
 <br>
 
-<br>
+
+<h3 align="left">🛠 Programming Languages </h3>
 
 
-<h3 align="center">🛠 Programming Languages </h3>
-
-<br>
-
- <div align="center">
+ <div align="left">
   <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" alt="C logo" />
   <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" />
   <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" />
@@ -99,11 +91,10 @@
 
 <br>
 
-<h3 align="center">🛠 Softwares and Tools</h3>
+<h3 align="left">🛠 Softwares and Tools</h3>
 
-<br>
 
-<div align="center">
+<div align="left">
   <p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -120,8 +111,8 @@
 
 
 
-<div align="center">
-  <h3 align="center">🛠 Frameworks</h3>
+<div align="left">
+  <h3 align="left">🛠 Frameworks</h3>
   <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -129,9 +120,6 @@
   </p>
 </div>
 
-
-<br>
-<br>
 
 <br>
 <br>
