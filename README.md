@@ -20,11 +20,18 @@
 
 ###
 
-<p align="left">I'm a passionate and aspiring data science student currently pursuing my studies at Vellore Institute of Technology ,Bhopal. With a keen interest in extracting meaningful insights from data, I am dedicated to exploring the vast possibilities of data science to drive innovation and create impact . My passion for continuous learning drives me to stay up-to-date with the latest advancements in the field. I actively engage in online courses, webinars, and industry forums to expand my knowledge and sharpen my skills.</p>
+🎓 Data Science Student at Vellore Institute of Technology, Bhopal  
+🧑‍💻 He/Him  
+🌟 Passionate Data Scientist in the making  
+🔥 Proficient in Python, R, and Machine Learning  
+🌐 Web Development Enthusiast: Skilled in Django, HTML, CSS, and JavaScript  
+🚀 Always Learning: Actively exploring new frameworks and tools to stay ahead  
+💡 Continuous Learner: Engaged in online courses, webinars, and industry forums  
+📊 Data Insights: Dedicated to extracting meaningful insights from data to drive innovation and impact  
+🤖 Excited about: Exploring advanced topics in ML, AutoML, and Data Engineering  
   
 ###
 
-<br>
 <br>
 
 -----
