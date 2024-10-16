@@ -3,11 +3,6 @@
 
 <h1 align="center"><b>Hi ,  I'm Abhiyank Yadav </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhiyank51" alt="" /></a>
-</p>
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -17,13 +12,10 @@
   </a>
 </p>
 
-
-
 ###
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">**About me**
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 ###
@@ -74,10 +66,10 @@
 <br>
 
 
-<h3 align="left">🛠 Programming Languages </h3>
+<h3 align="center">🛠 Programming Languages </h3>
 
 
- <div align="left">
+ <div align="center">
   <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" alt="C logo" />
   <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" />
   <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" />
@@ -91,10 +83,10 @@
 
 <br>
 
-<h3 align="left">🛠 Softwares and Tools</h3>
+<h3 align="center">🛠 Softwares and Tools</h3>
 
 
-<div align="left">
+<div align="center">
   <p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -111,8 +103,8 @@
 
 
 
-<div align="left">
-  <h3 align="left">🛠 Frameworks</h3>
+<div align="center">
+  <h3 align="center">🛠 Frameworks</h3>
   <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
@@ -138,9 +130,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiyank51&theme=dark&hide_border=true"/>
 </p>
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhiyank51&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/Abhiyank51/github-readme-activity-graph)
-
 
 <div align="center">
   
