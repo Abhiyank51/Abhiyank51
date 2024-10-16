@@ -20,15 +20,15 @@
 
 ###
 
-🎓 Data Science Student at Vellore Institute of Technology, Bhopal  
-🧑‍💻 He/Him  
-🌟 Passionate Data Scientist in the making  
-🔥 Proficient in Python, R, and Machine Learning  
-🌐 Web Development Enthusiast: Skilled in Django, HTML, CSS, and JavaScript  
-🚀 Always Learning: Actively exploring new frameworks and tools to stay ahead  
-💡 Continuous Learner: Engaged in online courses, webinars, and industry forums  
-📊 Data Insights: Dedicated to extracting meaningful insights from data to drive innovation and impact  
-🤖 Excited about: Exploring advanced topics in ML, AutoML, and Data Engineering  
+- 🎓 Data Science Student at Vellore Institute of Technology, Bhopal  
+- 🧑‍💻 He/Him  
+- 🌟 Passionate Data Scientist in the making  
+- 🔥 Proficient in Python, R, and Machine Learning  
+- 🌐 Web Development Enthusiast: Skilled in Django, HTML, CSS, and JavaScript  
+- 🚀 Always Learning: Actively exploring new frameworks and tools to stay ahead  
+- 💡 Continuous Learner: Engaged in online courses, webinars, and industry forums  
+- 📊 Data Insights: Dedicated to extracting meaningful insights from data to drive innovation and impact  
+- 🤖 Excited about: Exploring advanced topics in ML, AutoML, and Data Engineering  
   
 ###
 
